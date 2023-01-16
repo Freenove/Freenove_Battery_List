@@ -5,11 +5,9 @@ A list of batteries used by Freeove products and links to purchase batteries.
 ### Note
 
 If one purchase link fails or the battery is sold out, please try another link.  
-If you find that a purchase link is invalid, you are welcome to notify us.
+If you need help or want to report a link failure, please contact us:
 
 [support@freenove.com](mailto:support@freenove.com)
-
-> If you meet any difficulties, please contact our technical support team for help.
 
 ### Support
 
