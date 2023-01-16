@@ -1,9 +1,10 @@
-## Purchase links
+## Purchase Links
 
 18650 rechargeable battery (3.7V) (flat top) (no protective board)
 
 ### Note
 
+Amazon does not sell this type of battery, so the links provided are from other websites.  
 If one purchase link fails or the battery is sold out, please try another link.  
 If you need help or want to report a link failure, please contact us:
 
