@@ -2,7 +2,7 @@
 
 18650 rechargeable battery (3.7V) (flat top) (no protective board)
 
-<img src='18650_Flat Top_Unprotected.jpg' width='50%'/>
+<img src='18650_Flat Top_Unprotected.jpg' width='60%'/>
 
 ### Note
 
