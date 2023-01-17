@@ -1,10 +1,10 @@
-## Purchase Links
+## 18650 Rechargeable Battery (3.7V) (Flat Top) (No Protective Board)
 
-18650 rechargeable battery (3.7V) (flat top) (no protective board)
+If you do not want to purchase from the links below, please ensure that the battery meets the above requirements.
 
 <img src='18650_Flat Top_Unprotected.png' width='60%'/>
 
-### Note
+## Purchase Links
 
 Amazon does not sell this type of battery, so the links provided are from other websites.  
 If one purchase link fails or the battery is sold out, please try another link.  
