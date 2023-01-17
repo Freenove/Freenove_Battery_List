@@ -8,9 +8,7 @@
 
 Amazon does not sell this type of battery, so the links provided are from other websites.  
 If one purchase link fails or the battery is sold out, please try another link.  
-If you need help or want to report a link failure, please contact us:
-
-[support@freenove.com](mailto:support@freenove.com)
+If you need help or want to report a link failure, please contact [support@freenove.com](mailto:support@freenove.com)
 
 ### US
 
@@ -24,18 +22,18 @@ If you need help or want to report a link failure, please contact us:
 * https://18650canada.ca/product/sinowatt-sw18650-30sp-15a-3000mah-flat-top-battery-genuine/
 * https://18650canada.ca/product/vapcell-k30-18650-15a-30a-flat-top-3000mah/
 
+### UK
+
+* https://www.fogstar.co.uk/products/samsung-25r-br-2500mah-20a
+* https://www.fogstar.co.uk/products/samsung-30q-br-3000mah-19a
+* https://www.fogstar.co.uk/products/molicel-m35a-18650-battery
+
 ### EU
 
 * https://eu.nkon.nl/rechargeable/li-ion/18650-size/panasonic-ncr18650bd-3200mah-10a.html
 * https://eu.nkon.nl/rechargeable/li-ion/18650-size/samsung-inr18650-25s-2500mah-25a.html
 * https://www.conrad.de/de/p/samsung-nr18650-25r-spezial-akku-18650-hochstromfaehighochtemperaturfaehig-flat-top-li-ion-3-6-v-2500-mah-1431335.html
 * https://www.conrad.de/de/p/sony-us18650vtc5a-spezial-akku-18650-hochstromfaehig-flat-top-li-ion-3-7-v-2600-mah-1499575.html
-
-### UK
-
-* https://www.fogstar.co.uk/products/samsung-25r-br-2500mah-20a
-* https://www.fogstar.co.uk/products/samsung-30q-br-3000mah-19a
-* https://www.fogstar.co.uk/products/molicel-m35a-18650-battery
 
 ### AU
 
