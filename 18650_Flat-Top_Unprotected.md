@@ -2,7 +2,7 @@
 
 If you do not want to purchase from the links below, please ensure that the battery meets the above requirements.
 
-<img src='18650_Flat Top_Unprotected.png' width='60%'/>
+<img src='18650_Flat-Top_Unprotected.png' width='60%'/>
 
 ## Purchase Links
 
