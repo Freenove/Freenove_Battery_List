@@ -12,10 +12,8 @@ If you need help or want to report a link failure, please contact [support@freen
 
 ### US
 
-* https://www.18650batterystore.com/collections/18650-batteries/products/eve-26v-18650-button-top-battery
 * https://www.18650batterystore.com/collections/18650-batteries/products/samsung-30q-button-top
 * https://www.18650batterystore.com/collections/18650-batteries/products/samsung-35e-button-top
-* https://www.18650batterystore.com/collections/18650-batteries/products/sanyo-ncr18650ga-button-top
 
 ### CA
 
