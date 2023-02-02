@@ -1,4 +1,4 @@
-## 18650 Rechargeable Battery (3.7V) (Button Top) (No Protective Board)
+## 18650 Rechargeable Battery (3.7V) (Button Top) (No Protective Board, discharge current ≥10A)
 
 If you do not want to purchase from the links below, please ensure that the battery meets the above requirements.
 
