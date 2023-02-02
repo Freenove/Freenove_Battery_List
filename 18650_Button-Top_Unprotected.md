@@ -37,5 +37,7 @@ If you need help or want to report a link failure, please contact [support@freen
 * https://www.tinkertechau.com.au/products/samsung-inr-18650-30q-button-top
 
 ### JP
+* https://item.rakuten.co.jp/mby1112/abe3400t/
+* https://item.rakuten.co.jp/oremeca/10000911/
 
 
