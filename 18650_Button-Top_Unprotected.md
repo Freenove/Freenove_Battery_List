@@ -22,7 +22,7 @@ If you need help or want to report a link failure, please contact [support@freen
 ### UK
 
 * https://www.ecoluxshopdirect.co.uk/lg-18650-3500mah-10a-3-7v-battery-button-top
-* https://www.fogstar.co.uk/search?type=article%2Cpage%2Cproduct&q=18650*+button*+top*
+* https://www.ecoluxshopdirect.co.uk/sanyo-ncr18650ga-3500mah-3-6v-battery-button-top
 * https://www.ecoluxshopdirect.co.uk/ampsplus-18650-3000mah-15a-3-7v-battery-button-top
 
 ### EU
