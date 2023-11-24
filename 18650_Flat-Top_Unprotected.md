@@ -13,20 +13,22 @@ If you need help or want to report a link failure, please contact [support@freen
 ### US
 
 * https://www.18650batterystore.com/collections/18650-batteries/products/efest-18650-3000mah-35a
-* https://www.18650batterystore.com/collections/18650-batteries/products/sony-vtc4
-* https://www.18650batterystore.com/collections/18650-batteries/products/molicel-p26a
-* https://www.18650batterystore.com/collections/18650-batteries/products/eve-18650-25p
+* https://www.18650batterystore.com/products/samsung-30q
+* https://www.18650batterystore.com/products/sony-vtc5d
+* https://www.18650batterystore.com/products/sony-vtc6
 
 ### CA
 
-* https://18650canada.ca/product/sinowatt-sw18650-30sp-15a-3000mah-flat-top-battery-genuine/
+* https://18650canada.ca/product/vapcell-k25-18650-20a-35a-flat-top-2500mah-battery/
+* https://18650canada.ca/product/molicel-npe-inr-18650-p28a-35a-2800mah-flat-top-18650-battery/
 * https://18650canada.ca/product/vapcell-k30-18650-15a-30a-flat-top-3000mah/
 
 ### UK
 
-* https://www.fogstar.co.uk/products/samsung-25r-br-2500mah-20a
-* https://www.fogstar.co.uk/products/samsung-30q-br-3000mah-19a
+* https://www.fogstar.co.uk/collections/18650-batteries/products/molicel-p28a-18650-battery
+* https://fogstar.co.uk/collections/18650-batteries/products/fogstar-3000mah-20a
 * https://www.fogstar.co.uk/products/molicel-m35a-18650-battery
+* https://www.fogstar.co.uk/collections/18650-batteries/products/sony-vtc5a-2600mah-25a-1
 
 ### EU
 
@@ -45,5 +47,5 @@ If you need help or want to report a link failure, please contact [support@freen
 * https://item.rakuten.co.jp/actfirstrt/sony_high_drain_battery_2600/
 * https://item.rakuten.co.jp/actfirstrt/sony_high_drain_battery_2100/
 * https://item.rakuten.co.jp/actfirstrt/sony_high_drain_battery_3000/
-* https://store.shopping.yahoo.co.jp/edgejp/efest186538a-j48.html
+* https://store.shopping.yahoo.co.jp/edgejp/18650battery-a35.html
 * https://store.shopping.yahoo.co.jp/edgejp/sonyvtc4-j49.html
