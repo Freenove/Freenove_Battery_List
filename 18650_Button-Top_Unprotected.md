@@ -18,7 +18,7 @@ If you need help or want to report a link failure, please contact [support@freen
 
 ### CA
 
-* https://18650canada.ca/product/panasonic-sanyo-ncr18650ga-unprotected-10a-3500mah/
+* https://x2robotics.ca/18650-cell-lithium-ion-battery-with-top-tip-3-7v-3500mah?search=18650
 
 ### UK
 
