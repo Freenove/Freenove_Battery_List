@@ -1,12 +1,16 @@
 ## 18650 Rechargeable Battery (3.7V) (Flat Top) (No Protective Board, discharge current ≥10A )
 
-If you do not want to purchase from the links below, please ensure that the battery meets the above requirements.
+If you do not want to purchase from the links below, please ensure the battery meets the above requirements.
+
 
 <img src='18650_Flat-Top_Unprotected.png' width='60%'/>
 
 ## Purchase Links
 
-Amazon does not sell this type of battery, so the links provided are from other websites.  
+Amazon bans the sale of 18650 batteries, but you may still be able to find some there.
+There are many fake 18650 batetries，so please be careful when choosing batteires if you search them yourself.
+Generally, the 18650 batteries only have a capacity of around 3600mAh. Those marked with a capacity far beyond that number are most likely fake.
+
 If one purchase link fails or the battery is sold out, please try another link.  
 If you need help or want to report a link failure, please contact [support@freenove.com](mailto:support@freenove.com)
 
