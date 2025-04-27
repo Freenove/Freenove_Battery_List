@@ -15,9 +15,9 @@ If you need help or want to report a link failure, please contact [support@freen
 
 ### US
 
-* https://www.18650batterystore.com/collections/18650-batteries/products/samsung-30q-button-top
-* https://www.imrbatteries.com/sanyo-ncr18650ga-3500mah-10a-button-top-battery
-* https://www.imrbatteries.com/sony-murata-vtc6-18650-3000mah-15a-battery-button-top/
+* https://imrbatteries.com/products/samsung-30q-18650-3000mah-15a-battery-button-top
+* https://imrbatteries.com/products/panasonic-ncr18650ga-3450mah-10a-battery-button-top
+
 
 ### CA
 
@@ -25,20 +25,20 @@ If you need help or want to report a link failure, please contact [support@freen
 
 ### UK
 
-* https://www.ecoluxshopdirect.co.uk/lg-18650-3500mah-10a-3-7v-battery-button-top
 * https://www.ecoluxshopdirect.co.uk/sanyo-ncr18650ga-3500mah-3-6v-battery-button-top
 * https://www.ecoluxshopdirect.co.uk/ampsplus-18650-3000mah-15a-3-7v-battery-button-top
+* https://www.ecoluxshopdirect.co.uk/panasonic-ncr18650bd-3200mah-10a-3-6v-battery-button-top
 
 ### EU
 
 * https://eu.nkon.nl/sanyo-18650ga-button-top.html
 * https://eu.nkon.nl/sony-konion-us18650vtc5-2600mah-30a-met-button-top.html
-* https://eu.nkon.nl/samsung-inr-18650-30q-3000mah-button-top.html
+* https://www.nkon.nl/en/inr18650-mj1-buttontop.html
 
 ### AU
 
-* https://www.tinkertechau.com.au/products/samsung-25r-18650-2500mah-20a-battery-button-top
-* https://www.tinkertechau.com.au/products/samsung-inr-18650-30q-button-top
+* https://www.tinkertechau.com.au/products/samsung-inr-18650-30q-button-top?_pos=2&_fid=ba27bb0e2&_ss=c
+* https://www.tinkertechau.com.au/products/panasonic-ncr18650-b-3400mah-10a-battery-button-top?_pos=5&_fid=ba27bb0e2&_ss=c
 
 ### JP
 * https://item.rakuten.co.jp/mby1112/abe3400t/
