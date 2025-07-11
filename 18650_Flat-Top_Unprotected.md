@@ -29,10 +29,10 @@ If you need help or want to report a link failure, please contact [support@freen
 
 ### UK
 
-* https://www.fogstar.co.uk/collections/18650-batteries/products/molicel-p28a-18650-battery
-* https://fogstar.co.uk/collections/18650-batteries/products/fogstar-3000mah-20a
-* https://www.fogstar.co.uk/products/molicel-m35a-18650-battery
-* https://www.fogstar.co.uk/collections/18650-batteries/products/sony-vtc5a-2600mah-25a-1
+* https://www.fogstar.co.uk/products/vapcell-b30-18650-battery?_pos=8&_sid=69c0fec43&_ss=r
+* https://www.fogstar.co.uk/products/molicel-m35a-18650-battery?_pos=3&_sid=69c0fec43&_ss=r
+* https://www.fogstar.co.uk/products/eve-inr-18650-35v?_pos=1&_sid=69c0fec43&_ss=r
+* https://www.fogstar.co.uk/products/sinowatt-25sp?_pos=21&_sid=69c0fec43&_ss=r
 
 ### EU
 
