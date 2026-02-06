@@ -17,7 +17,7 @@ If you need help or want to report a link failure, please contact [support@freen
 ### US
 
 * https://www.18650batterystore.com/collections/18650-batteries/products/efest-18650-3000mah-35a
-* https://www.18650batterystore.com/products/samsung-30q
+* https://www.18650batterystore.com/products/efest-18650-3500mah-20a
 * https://www.18650batterystore.com/products/sony-vtc5d
 * https://www.18650batterystore.com/products/sony-vtc6
 
